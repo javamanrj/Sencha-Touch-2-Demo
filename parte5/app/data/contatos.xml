@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<contato>
+	    <nome>Joao</nome>
+	    <sobrenome>Silva</sobrenome>
+	    <email>joaodasilva@xpto.com</email>
+	    <endereco>Rua das Couves</endereco>
+	</contato>
+	<contato>
+	    <nome>Zaedy</nome>
+	    <sobrenome>Sayao</sobrenome>
+	    <email>zaedyjava@gmail.com</email>
+	    <endereco>Rua das Neves</endereco>
+	</contato>
+</data>

@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SenchaTouch2Demo' target in the 'SenchaTouch2Demo' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
